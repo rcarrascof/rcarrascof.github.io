@@ -6,7 +6,7 @@ date: 2016-03-21
 comments: false
 ---
 
-<center><a href="http://rcarrascof.github.io/"><b>Moon</b></a>Software Developer.</center>
+<!--<center><a href="http://rcarrascof.github.io/"><b>Moon</b></a>Software Developer.</center>-->
 
 <!--
 ## Features
